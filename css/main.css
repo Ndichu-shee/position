@@ -1,0 +1,70 @@
+
+h1{
+background-color: grey;
+color:white;
+text-align: center;
+padding:25px;
+position: fixed;
+width:100%;
+top:0;
+
+
+}
+
+.one{
+background-color: #edd95f;
+height:700px;
+width:700px;
+margin:0 auto;
+margin-top: 150px;
+position:relative;
+
+}
+
+.two{
+height:130px;
+width: 130px;
+border-radius: 50%;
+background-color: #e05a7e;
+position:absolute;
+top:-80px;
+left:-100px;
+
+
+}
+
+
+
+.three{
+background-color:#2cbf78;
+height:130px;
+width: 130px;
+border-radius: 50%;
+position:absolute;
+top:-80px;
+right:-100px;
+
+}
+
+.four{
+height:130px;
+width: 130px;
+border-radius: 50%;
+background-color:#6683d4;
+position:absolute;
+bottom:-80px;
+left:-100px;
+}
+
+.five{
+height:130px;
+width: 130px;
+border-radius: 50%;
+background-color: #cc62c0;
+position:absolute;
+bottom:-80px;
+right:-100px;
+
+}
+
+
